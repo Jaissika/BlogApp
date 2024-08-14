@@ -75,8 +75,6 @@ Format your blog content using the integrated TinyMce Editor.
 ![Screenshot 2024-08-08 182802](https://github.com/user-attachments/assets/ebc2f03b-659c-4177-aa6e-6f952bf88a4a)
 
 
-<b>Video Demo:</b>
-https://www.loom.com/share/0fe3f2e3e7bb430795b1b84b300d3203?sid=639a626b-0507-4c19-b9d9-ac102d8e47eb
 
 Contact
 Name: Jaissika Shukla
